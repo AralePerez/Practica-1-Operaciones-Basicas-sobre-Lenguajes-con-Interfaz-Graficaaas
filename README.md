@@ -41,6 +41,7 @@ pip install flet
 2. Abrir una terminal en la carpeta del proyecto.
 3. Ejecutar el siguiente comando:
 
+https://drive.google.com/file/d/1s_JQ8CHxK_-71oJzRcxgeba_GVurUq_d/view?usp=drive_link
 
 python practica_lenguajes.py
 
